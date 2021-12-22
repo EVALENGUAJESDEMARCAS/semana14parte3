@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>etiquetas</title>
+    </head>
+    <body>
+      <div id="centrado">
+        <header>
+            <hgroup>
+                <h1>(( etiquetas ))</h1>
+            </hgroup>
+        </header>
+            <nav>
+                (( MENU  ))
+            </nav>
+            <aside>
+                (( noticias ))
+            </aside>
+            <section id="izquierda">
+                <h2>menu2<h2>
+                <article>(( notiicias2 ))</article>
+            </section>
+            <section id="centro">
+                <h2>fechas importantes<h2>
+                <article>(( fiestas ))</article>
+                <article>(( reuniones ))</article>
+            </section>
+          </div>
+          <footer>
+            <section id="copyright">((  Copyright ))</section>
+          </footer>
+        </div>
+    </body>
+</html>
